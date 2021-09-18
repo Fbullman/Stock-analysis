@@ -7,7 +7,7 @@ Performing analysis on stock performance in a client's preferred, DQ green energ
 
 
 
-![This is an image](https://github.com/Fbullman/Stock-analysis/blob/main/DQ%20negative%20Return%20(2).png)
+![This is an image](https://github.com/Fbullman/Stock-analysis/blob/main/DQ%20Analysis2018%20(2).png)
 
 
 ### Results
