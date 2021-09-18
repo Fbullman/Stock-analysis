@@ -24,5 +24,6 @@ Unsing a timer to show the exact time the analysis is ran and delivered.
 
 2. - startTime = Timer
 
-![This is an image](https://github.com/Fbullman/Stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![This is an image](https://github.com/Fbullman/Stock-analysis/blob/main/Resources/VBA_Challenge_2017%20(2).png)
 
+![This is an image](https://github.com/Fbullman/Stock-analysis/blob/main/Resources/VBA_Challenge_2018%20(2).png)
